@@ -15,27 +15,28 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/JOSProjects/IMDb-Movie-Bot",
-    "repository": "https://github.com/JOSProjects/IMDb-Movie-Bot",
+    "website": "https://github.com/Aadarshab/IMDb-Movie-Bot",
+    "repository": "https://github.com/Aadarshab/IMDb-Movie-Bot",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "6194982121:AAGlpR1mqSScLMjemnhpaEOK1PNbzu5pSHM",
+
             "required": true
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "24236993",
             "required": true
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "0a56df2f25eefcace1c2e8948106dd66",
             "required": true
         },
         "CHANNELS": {
-            "description": "Username or ID of channel or group. Separate multiple IDs by space.",
+            "description": "@AB_CRACKER",
             "required": false
         },
         "ADMINS": {
-            "description": "Username or ID of Admin. Separate multiple Admins by space.",
+            "description": "@AB_CRACKER",
             "required": true
         },
         "PICS": {
@@ -43,7 +44,7 @@
             "required": false
         },
         "LOG_CHANNEL": {
-            "description": "Bot Logs,Give a channel id with -100xxxxxxx",
+            "description": "-1001742165971",
             "required": true
         },
         "AUTH_USERS": {
