@@ -71,7 +71,7 @@
     },
     "addons": [],
     "buildpacks": [{
-        "url": "heroku/python"
+        "url": "mongodb/python"
     }],
     "formation": {
         "worker": {
